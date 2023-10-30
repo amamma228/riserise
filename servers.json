@@ -1,0 +1,10 @@
+[
+    {
+      "ip": "123123123",
+      "port": ,
+      "x2": false,
+      "name": "MINT",
+      "online": 0,
+      "maxonline": 1000
+    }
+ ]
