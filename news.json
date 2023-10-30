@@ -1,10 +1,14 @@
 [
-    {
-      "ip": "54.36.82.238",
-      "port": 1373,
-      "x2": true,
-      "name": "MINT",
-      "online": 2,
-      "maxonline": 1000
-    }
- ]
+   {
+        "image" : "https://i.postimg.cc/vBqMnZGF/riseru.png",
+        "title" : "Открытый бета-тест"
+   },
+   {
+        "image" : "https://i.postimg.cc/VsJ5F3pB/image.png",
+        "title" : "Райс Раша тестинг"
+   },
+   {
+        "image" : "https://i.postimg.cc/VsJ5F3pB/image.png",
+        "title" : "Привет смиронов от"
+   }
+]
