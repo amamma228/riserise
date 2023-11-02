@@ -3,8 +3,16 @@
       "ip": "54.36.82.238",
       "port": 1373,
       "x2": true,
-      "name": "MINT #1 \nМятный",
+      "name": "RISE #1 \nМятный",
       "online": 176,
+      "maxonline": 1000
+    };
+    {
+      "ip": "54.36.82.237",
+      "port": 1373,
+      "x2": true,
+      "name": "RISE #2 \nТестовый",
+      "online": 0,
       "maxonline": 1000
     }
  ]
