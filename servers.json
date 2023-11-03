@@ -1,9 +1,8 @@
 [
     {
-      "ip": "123123123",
-      "port": ,
-      "x2": false,
-      "name": "MINT",
+      "color": "",
+      "dopname": "Тест",
+      "name": "Тест1",
       "online": 0,
       "maxonline": 1000
     }
