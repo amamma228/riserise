@@ -2,7 +2,7 @@
     {
       "ip": "141.95.234.20",
       "port": 2601,
-      "x2": true,
+      "x2": false,
       "name": "Мятный #1",
       "online": 0,
       "maxonline": 1000
