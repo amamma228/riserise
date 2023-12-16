@@ -1,10 +1,16 @@
 [
    {
-        "image" : "https://i.postimg.cc/Vkk2143H/obt.png",
-        "title" : "ОБТ"
+        "imageurl" : "https:\/\/edgecdn.matrp.ru\/matrp_mobile\/images\/mini_38.jpg",
+        "title" : "BATTLE PASS",
+        "titleBig" : "Криминал",
+        "url" : "https://t.me/edgar_sliv",
+        "imageFullUrl":"https:\/\/edgecdn.matrp.ru\/matrp_mobile\/images\/stories_38.jpg"
    },
    {
-        "image" : "https://i.postimg.cc/fb4PbYLg/1-1.png",
-        "title" : "test2"
+        "imageurl" : "https://edgecdn.matrp.ru//matrp_mobile//images//mini_8.png",
+        "title" : "Как начать",
+        "titleBig" : "играть?",
+        "url" : "https://t.me/edgar_sliv",
+        "imageFullUrl":"https://edgecdn.matrp.ru//matrp_mobile//images//stories_8.png"
    }
 ]
