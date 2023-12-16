@@ -1,16 +1,10 @@
 [
    {
-        "imageurl" : "https:\/\/edgecdn.matrp.ru\/matrp_mobile\/images\/mini_38.jpg",
-        "title" : "BATTLE PASS",
-        "titleBig" : "Криминал",
-        "url" : "https://t.me/edgar_sliv",
-        "imageFullUrl":"https:\/\/edgecdn.matrp.ru\/matrp_mobile\/images\/stories_38.jpg"
+        "image" : "https://i.ytimg.com/vi/W5D4ZS5bEAA/maxresdefault.jpg",
+        "title" : "rise russia"
    },
    {
-        "imageurl" : "https://edgecdn.matrp.ru//matrp_mobile//images//mini_8.png",
-        "title" : "Как начать",
-        "titleBig" : "играть?",
-        "url" : "https://t.me/edgar_sliv",
-        "imageFullUrl":"https://edgecdn.matrp.ru//matrp_mobile//images//stories_8.png"
+        "image" : "https://i.ytimg.com/vi/0L4g6BLtcOM/maxresdefault.jpg",
+        "title" : "rr-rp.ru"
    }
 ]
