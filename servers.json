@@ -6,5 +6,13 @@
       "name": "Мятный #1",
       "online": 0,
       "maxonline": 1000
+    },
+    {
+      "ip": "51.75.232.6",
+      "port": 188,
+      "x2": false,
+      "name": "Мятный #1",
+      "online": 0,
+      "maxonline": 1000
     }
  ]
